@@ -1,3 +1,7 @@
+---
+title: "A grumpy blog"
+date: 2020-06-26
+---
 # A post for this day 26th of June 2020
 
 This is a sample blog article. 
