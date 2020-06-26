@@ -1,3 +1,5 @@
-# Welcome to my blog
+# A tutorial site.
 
-I'm glad you are here. I plan to talk about ...
+I'm changing the content to follow along with the GitHub Learning Lab for Jekyll pages.
+
+Apparently it can make a static site from Markdown which is really useful!
